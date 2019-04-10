@@ -4,13 +4,17 @@ const calc     = {
         img: require('../assets/projects/portf-calc.png'),
         desc: 'Calculator made using Javascript',
         url: 'https://rdollent.github.io/FCC_Calculator/'
-    }
+        }
 const clock    = {
         img: require('../assets/projects/portf-clock.png'),
-        desc: "Analog clock using native JS and CSS",
+        desc: 'Analog clock using native JS and CSS',
         url: 'https://rdollent.github.io/JS30_Clock/'
-}
-const gaming   = require('../assets/projects/portf-gaming.png');
+        }
+const gaming   = {
+        img: require('../assets/projects/portf-gaming.png'),
+        desc: 'Query page for GiantBomb video game API',
+        url: 'https://rdollent.github.io/GamingSite/'
+        }
 const drums    = require('../assets/projects/portf-jsdrums.png');
 const patatap  = require('../assets/projects/portf-patatapclone.png');
 const pomodoro = require('../assets/projects/portf-pomodoro.png');
@@ -25,7 +29,7 @@ const weather  = require('../assets/projects/portf-weather.png');
 const wiki     = require('../assets/projects/portf-wiki.png');
 const yelpcamp = require('../assets/projects/portf-yelpcamp.png');
 
-const Obj = [calc, clock];
+const Obj = [calc, clock, gaming];
 
 module.exports = Obj;
 
