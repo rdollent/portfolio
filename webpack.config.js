@@ -18,14 +18,12 @@ module.exports = {
             'store',
             'actions',
             'styles',
-            'assets',
-            'objects',
-            'projects'
+            'objects'
         ],
         alias: {
           
         },
-        extensions: ['.scss', '.js', '.jsx', '.png']
+        extensions: ['.scss', '.js', '.jsx']
     },
     module: {
         rules: [
