@@ -7,7 +7,6 @@ class Projects extends React.Component {
         super(props);
     }
     render() {
-        console.log(Obj);
         const list = () => {
             return Obj.map((proj) => {
                 return (
@@ -21,11 +20,10 @@ class Projects extends React.Component {
         };
         return (
             <div id='projects'>
+                <h3><strong>Personal projects</strong></h3>
                 <div>
                     {list()}
                 </div>
-                
-                
             </div>
         )
     }

@@ -3,6 +3,7 @@ const React = require('react');
 const About = require('About');
 const Title = require('Title');
 const Projects = require('Projects');
+const Skills = require('Skills');
 
 class Main extends React.Component {
     constructor(props) {
@@ -11,9 +12,10 @@ class Main extends React.Component {
     render() {
         return (
             <div id='main'>
-                <Title />
-                <About />
-                <Projects />
+                <Title/>
+                <About/>
+                <Skills/>
+                <Projects/>
             </div>
         )
     }
