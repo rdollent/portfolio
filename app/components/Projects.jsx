@@ -1,13 +1,13 @@
 const React = require('react');
 
-const Obj = require('projects');
+const Obj = require('../objects/projects');
 
 class Projects extends React.Component {
     constructor(props) {
         super(props);
     }
     render() {
-        
+        console.log(Obj);
         const list = () => {
             return Obj.map((proj) => {
                 return (
