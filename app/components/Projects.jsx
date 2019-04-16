@@ -20,7 +20,7 @@ class Projects extends React.Component {
         };
         return (
             <div id='projects'>
-                <h3><strong>Personal projects</strong></h3>
+                <h3><strong>PERSONAL PROJECTS</strong></h3>
                 <div class='card-list'>
                     {list()}
                 </div>
