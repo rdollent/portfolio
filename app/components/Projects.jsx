@@ -12,8 +12,8 @@ class Projects extends React.Component {
                 return (
                     <div class='cards'>
                         <img src={proj.img}/>
-                        <p>{proj.desc}</p>
-                        <p><a href={proj.url} target='_blank'>Here</a></p>
+                        <p> {proj.desc} </p>
+                        <p><a href={proj.url} target='_blank'><button>Go</button></a></p>
                     </div>
                     );
             });
