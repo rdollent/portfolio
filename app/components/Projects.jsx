@@ -13,7 +13,11 @@ class Projects extends React.Component {
                     <div class='cards'>
                         <img src={proj.img}/>
                         <p> {proj.desc} </p>
-                        <p><a href={proj.url} target='_blank'><button>Go</button></a></p>
+                        <p>
+                            <a href={proj.url} target='_blank'><button>Demo</button></a>
+                            <a href={proj.github} target='_blank'><button>GitHub</button></a>
+                        </p>
+                        
                     </div>
                     );
             });

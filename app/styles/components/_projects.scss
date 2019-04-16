@@ -6,7 +6,7 @@
 
 .card-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(550px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
     grid-column-gap: 20px;
     grid-row-gap: 20px;
     justify-items: center;
@@ -20,6 +20,7 @@
 .cards a {
     text-decoration: none;
     color: white;
+    margin: 0 10px;
 }
 
 .cards button {
