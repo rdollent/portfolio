@@ -10,7 +10,7 @@ class Projects extends React.Component {
         const list = () => {
             return Obj.map((proj) => {
                 return (
-                    <div>
+                    <div class='cards'>
                         <img src={proj.img}/>
                         <p>{proj.desc}</p>
                         <p><a href={proj.url} target='_blank'>Here</a></p>
@@ -21,7 +21,7 @@ class Projects extends React.Component {
         return (
             <div id='projects'>
                 <h3><strong>Personal projects</strong></h3>
-                <div>
+                <div class='card-list'>
                     {list()}
                 </div>
             </div>

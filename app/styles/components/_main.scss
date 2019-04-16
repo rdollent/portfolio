@@ -1,3 +1,7 @@
 #main {
-     font-family: 'Verdana';
+     @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+     font-family: 'Open Sans', sans-serif;
+     display: grid;
+     grid-template-columns: [col1] 10% [col2] 80% [col3] 10% [col4];
+     grid-template-rows: [row1] 20px [row2] 40px [row3] 100px [row4] 1500px [row5];
 }
