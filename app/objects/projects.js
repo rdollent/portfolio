@@ -94,7 +94,7 @@ const yelpcamp = {
         img: require('../assets/projects/portf-yelpcamp.png'),
         desc: 'Camping grounds gallery',
         url: 'https://desolate-stream-87694.herokuapp.com/',
-        github: 'https://github.com/rdollent/FCC_Calculator' 
+        github: 'https://github.com/rdollent/yelpcamp/tree/master/YelpCamp/v13' 
         };
 
 const Obj = [calc, clock, gaming, drums, patatap, pomodoro, quote, books, timer, rtodo, todo, tribute, weather2, weather, wiki, yelpcamp];
