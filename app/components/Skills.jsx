@@ -20,16 +20,16 @@ class Skills extends React.Component {
                     <li>React</li>
                     <li>Redux</li>
                     <li>jQuery</li>
-                    <li>Node.js</li>
+                    <li>NodeJS</li>
                     <li>Express</li>
                     <li>Visual Studio</li>
                     <li>Cloud9 IDE</li>
                     <li>Heroku</li>
-                    <li>EJS templating</li>
+                    <li>EJS</li>
                     <li>Foundation</li>
                     <li>Bootstrap</li>
                     <li>Jest</li>
-                    <li>Passport.js</li>
+                    <li>Passport</li>
                     <li>SQL</li>
                     <li>PostgreSQL</li>
                     <li>MongoDB</li>
