@@ -24,6 +24,7 @@ class Projects extends React.Component {
         };
         return (
             <div id='projects'>
+                <hr class='hr'/>
                 <h3><strong>PERSONAL PROJECTS</strong></h3>
                 <div class='card-list'>
                     {list()}

@@ -8,6 +8,7 @@ class Skills extends React.Component {
     render() {
         return (
             <div id='skills'>
+            <hr class='hr'/>
             <h3><strong>SKILLS AND TOOLS</strong></h3>
                 <ul>
                     <li>HTML/HTML5</li>

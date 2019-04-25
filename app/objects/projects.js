@@ -2,19 +2,19 @@
 
 const calc     = {
         img: require('../assets/projects/portf-calc.png'),
-        desc: 'Calculator made using Javascript',
+        desc: 'Calculator built using Javascript',
         url: 'https://rdollent.github.io/FCC_Calculator/',
         github: 'https://github.com/rdollent/FCC_Calculator' 
         };
 const clock    = {
         img: require('../assets/projects/portf-clock.png'),
-        desc: 'Analog clock using native JS and CSS',
+        desc: 'Analog clock built on JS and CSS',
         url: 'https://rdollent.github.io/JS30_Clock/',
         github: 'https://github.com/rdollent/JS30_Clock' 
         };
 const gaming   = {
         img: require('../assets/projects/portf-gaming.png'),
-        desc: 'Query page for GiantBomb video game API',
+        desc: 'Video game query using GiantBomb API',
         url: 'https://rdollent.github.io/GamingSite/',
         github: 'https://github.com/rdollent/GamingSite' 
         };
@@ -26,7 +26,7 @@ const drums    =  {
         };
 const patatap  = {
         img: require('../assets/projects/portf-patatapclone.png'),
-        desc: 'Cloning Patatap app exercise',
+        desc: 'Patatap clone app exercise',
         url: 'https://rdollent.github.io/Patatap_Clone/',
         github: 'https://github.com/rdollent/Patatap_Clone' 
         };
@@ -38,13 +38,13 @@ const pomodoro = {
         };
 const quote    = {
         img: require('../assets/projects/portf-quote.png'),
-        desc: 'Random quote generator using API',
+        desc: 'Random quote generator using jQuery and QuotesOnDesign API',
         url: 'https://rdollent.github.io/FCC_Quote/',
         github: 'https://github.com/rdollent/FCC_Quote' 
         };
 const books    = {
         img: require('../assets/projects/portf-react-books.png'),
-        desc: 'Book search using Google Books API',
+        desc: 'Book search using React and Google Books API',
         url: 'https://jun-chingu-book-finder.herokuapp.com/',
         github: 'https://github.com/rdollent/chingu-solo-project' 
         };
