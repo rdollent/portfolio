@@ -97,7 +97,7 @@ const yelpcamp = {
         github: 'https://github.com/rdollent/yelpcamp/tree/master/YelpCamp/v13' 
         };
 
-const Obj = [calc, clock, gaming, drums, patatap, pomodoro, quote, books, timer, rtodo, todo, tribute, weather2, weather, wiki, yelpcamp];
+const Obj = [todo, calc, clock, gaming, drums, patatap, pomodoro, quote, books, timer, rtodo, tribute, weather2, weather, wiki, yelpcamp];
 
 //patatap, pomodoro, quote, books, timer, rtodo, todo, tribute, weather2, weather, wiki, yelpcamp
 
