@@ -97,7 +97,14 @@ const yelpcamp = {
         github: 'https://github.com/rdollent/yelpcamp/tree/master/YelpCamp/v13' 
         };
 
-const Obj = [todo, calc, clock, gaming, drums, patatap, pomodoro, quote, books, timer, rtodo, tribute, weather2, weather, wiki, yelpcamp];
+const kachingu = {
+        img: require('../assets/projects/portf-tracker.png'),
+        desc: 'Expense Tracker remote team project in React, PostgresSQL, Node',
+        url: 'https://kachingu.herokuapp.com/',
+        github: 'https://github.com/chingu-voyages/v8-bears-team-13' 
+        };
+
+const Obj = [kachingu, todo, calc, clock, gaming, drums, patatap, pomodoro, quote, books, timer, rtodo, tribute, weather2, weather, wiki, yelpcamp];
 
 //patatap, pomodoro, quote, books, timer, rtodo, todo, tribute, weather2, weather, wiki, yelpcamp
 
