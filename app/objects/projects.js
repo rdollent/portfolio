@@ -100,7 +100,7 @@ const yelpcamp = {
 const kachingu = {
         img: require('../assets/projects/portf-tracker.png'),
         desc: 'Expense Tracker remote team project in React, PostgresSQL, Node',
-        url: 'https://kachingu.herokuapp.com/',
+        url: 'https://ka-chingu.herokuapp.com/',
         github: 'https://github.com/chingu-voyages/v8-bears-team-13' 
         };
 
