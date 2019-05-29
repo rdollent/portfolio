@@ -103,8 +103,16 @@ const kachingu = {
         url: 'https://ka-chingu.herokuapp.com/',
         github: 'https://github.com/chingu-voyages/v8-bears-team-13' 
         };
+        
+const meteor = {
+        img: require('../assets/projects/portf-meteor.png'),
+        desc: 'NASA meteor directory lookup in React/Redux',
+        url: 'https://jun-nasa-meteor.herokuapp.com/',
+        github: 'https://github.com/rdollent/NASAMeteor' 
+        };
 
-const Obj = [kachingu, todo, calc, clock, gaming, drums, patatap, pomodoro, quote, books, timer, rtodo, tribute, weather2, weather, wiki, yelpcamp];
+
+const Obj = [kachingu, todo, meteor, books, calc, clock, gaming, drums, patatap, pomodoro, quote, timer, rtodo, tribute, weather2, weather, wiki, yelpcamp];
 
 //patatap, pomodoro, quote, books, timer, rtodo, todo, tribute, weather2, weather, wiki, yelpcamp
 
